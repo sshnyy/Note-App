@@ -3,6 +3,7 @@
 FastCampus의 "파이썬으로 할 수 있는 모든것 with 47개 프로젝트 초격차 패키지 Online" 강의 수료
 
 - Switch branches/tags 에서 코드 확인 !!
+- Ch01/Clip04 ~ Ch06/Clip04
 
 <br>
 
